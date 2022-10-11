@@ -1,4 +1,5 @@
 # fnursonmezmergesortproject1
+# [Patika.dev](https://www.patika.dev/tr)
 # Merge Sort
 # 1-) [16,21,11,8,12,22]
 - 1.adım = [16,21,11] / [8,12,22]
